@@ -1,2 +1,3 @@
 # SimpleCalculator
-Another yet simple arithmetic calculator
+
+Another yet simple arithmetic calculator.
