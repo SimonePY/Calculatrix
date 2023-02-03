@@ -13,8 +13,7 @@ Available operators are :
 + = Addition.
 - = Subtraction
 * = Multiplication
-% = Percentage
-? = Remainder
+% = Remainder
 ^ = Exponent
 v = Square root
 / = Division
