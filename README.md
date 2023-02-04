@@ -4,7 +4,7 @@ Another yet simple arithmetic calculator.
 
 # Usage
 
-You will require **java** for run this application!
+You will require **Java** for run this application!
 
 Run with the command `java calculator` for start the calculator.
 
