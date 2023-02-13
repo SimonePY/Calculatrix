@@ -1,7 +1,9 @@
+package terminal;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-class SimpleCalculator {
+class calculatorTerminal {
     public static void main(String[] args) {
         char operator;
         int First, Second, Result;
